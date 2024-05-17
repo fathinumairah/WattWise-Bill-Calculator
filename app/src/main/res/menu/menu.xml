@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ /**
+  ~ * Copyright (c) 2024 .All rights reserved.
+  ~ * Fathin Umairah Binti Noordin
+  ~ */
+  -->
+
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menuAbout"
+        android:title="About" />
+    <item
+        android:id="@+id/menuBack"
+        android:title="Back" />
+</menu>
