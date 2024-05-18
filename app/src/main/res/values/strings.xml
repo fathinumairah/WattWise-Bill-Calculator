@@ -6,6 +6,6 @@
   -->
 
 <resources>
-    <string name="app_name">WattWise Bill Calculatoro</string>
-    <string name="source_code"><a href = "https://github.com/fathinumairah/WattWise-Bill-Calculator">SOURCE CODE</a></string>
+    <string name="app_name">WattWise Bill Calculator</string>
+    <string name="source_code"><a href = "https://github.com/fathinumairah/wattwise-bill-calculator">SOURCE CODE</a></string>
 </resources>
